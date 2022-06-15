@@ -1,0 +1,35 @@
+C:\Users\yapwe\Documents\1085461017\1085461017\bin\Debug\1085461017.exe.config
+C:\Users\yapwe\Documents\1085461017\1085461017\bin\Debug\1085461017.exe
+C:\Users\yapwe\Documents\1085461017\1085461017\bin\Debug\1085461017.pdb
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.csprojAssemblyReference.cache
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\MainWindow.g.cs
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\App.g.cs
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017_MarkupCompile.cache
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017_MarkupCompile.lref
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\MainWindow.baml
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.g.resources
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\_1085461017.Properties.Resources.resources
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.csproj.GenerateResource.cache
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.csproj.CoreCompileInputs.cache
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.exe
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\1085461017.pdb
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\Simple Styles.baml
+C:\Users\yapwe\Documents\1085461017\1085461017\obj\Debug\App.baml
+D:\1085461017\1085461017\bin\Debug\1085461017.exe.config
+D:\1085461017\1085461017\bin\Debug\1085461017.exe
+D:\1085461017\1085461017\bin\Debug\1085461017.pdb
+D:\1085461017\1085461017\obj\Debug\1085461017.csproj.AssemblyReference.cache
+D:\1085461017\1085461017\obj\Debug\1085461017.csproj.SuggestedBindingRedirects.cache
+D:\1085461017\1085461017\obj\Debug\Simple Styles.baml
+D:\1085461017\1085461017\obj\Debug\MainWindow.g.cs
+D:\1085461017\1085461017\obj\Debug\App.g.cs
+D:\1085461017\1085461017\obj\Debug\1085461017_MarkupCompile.cache
+D:\1085461017\1085461017\obj\Debug\1085461017_MarkupCompile.lref
+D:\1085461017\1085461017\obj\Debug\App.baml
+D:\1085461017\1085461017\obj\Debug\MainWindow.baml
+D:\1085461017\1085461017\obj\Debug\1085461017.g.resources
+D:\1085461017\1085461017\obj\Debug\_1085461017.Properties.Resources.resources
+D:\1085461017\1085461017\obj\Debug\1085461017.csproj.GenerateResource.cache
+D:\1085461017\1085461017\obj\Debug\1085461017.csproj.CoreCompileInputs.cache
+D:\1085461017\1085461017\obj\Debug\1085461017.exe
+D:\1085461017\1085461017\obj\Debug\1085461017.pdb
